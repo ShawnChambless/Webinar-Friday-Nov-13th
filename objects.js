@@ -2,20 +2,24 @@
 
 
 
-// add a favorite color property to shawn
+// add a favorite color to shawn using dot notation
 
 
 
-// add a method that console.logs 'Hi' with shawn's name
+//add a favorite food using bracket notation
 
 
 
-// make a constructor function that creates new people with three properties - name, age, favorite color
+// log the favorite color shawn using bracket and dot notation
 
 
 
-// attach a prototypical method to all new people that logs '<name> is <age> years old, and likes the color <favorite color>'
+// add a method that logs 'Hi <name>.'
 
 
 
-// Make a new person object using the constructor, and assign it your name, age, and favorite color
+// make a constructor function that creates new people with three properties - name, age, favoriteColor, and favoriteFood
+
+
+
+// attach a prototypical method to all new people that logs '<name> is <age> years old, and likes the color <favoriteColor> and <favoriteFood>.'
